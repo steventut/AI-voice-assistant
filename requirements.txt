@@ -1,4 +1,4 @@
-PyAudio==3.8.1
+PyAudio==0.2.13
 folium==0.14.0
 pandas==1.5.3
 pyttsx3==2.90
